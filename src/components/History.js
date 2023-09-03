@@ -342,7 +342,7 @@ function History() {
                       <br /> <br />
                       <a
                         data-fancybox="diplome"
-                        href="files/proxym2.png"
+                        href="files/stt.jpg"
                         className="art-link art-color-link art-w-chevron"
                       >
                         Certificate
@@ -438,7 +438,7 @@ function History() {
                       <br /> <br />
                       <a
                         data-fancybox="diplome"
-                        href="files/proxym1.png"
+                        href="files/kleos.jpg"
                         className="art-link art-color-link art-w-chevron"
                       >
                         Certificate
